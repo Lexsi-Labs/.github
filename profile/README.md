@@ -20,6 +20,9 @@
   <a href="https://discord.gg/dSB62Q7A" style="display:inline-block; vertical-align:middle;">
     <img src="https://raw.githubusercontent.com/Lexsi-Labs/TabTune/refs/heads/docs/assets/discord.png" width="150">
   </a>
+  <a href="https://huggingface.co/Lexsi" style="display:inline-block; vertical-align:middle;">
+    <img src="https://raw.githubusercontent.com/Lexsi-Labs/TabTune/refs/heads/docs/assets/huggingface.png" width="150">
+  </a>
 </div>
 
 Lexsi Labs drives Aligned and Safe AI Frontier Research. Our goal is to build AI systems that are transparent, reliable, and value-aligned, combining interpretability, alignment, and governance to enable trustworthy intelligence at scale.  
